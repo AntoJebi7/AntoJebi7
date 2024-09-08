@@ -40,6 +40,16 @@
 
 #### Top Repositories
 
+#### Top Repositories
+
+<a href="https://github.com/AntoJebi7/Django_Essentials_with_SQL_DB">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AntoJebi7&repo=Django_Essentials_with_SQL_DB&theme=radical" />
+</a>
+
+<a href="https://github.com/AntoJebi7/python_for_data_science">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AntoJebi7&repo=python_for_data_science&theme=radical" />
+</a>
+
 
 
 <br />
