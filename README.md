@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/AntoJebi7"><img height="50px" width="80%" alt="👋 Hi, I’m Anto Jebikshan — a passionate coder with a knack for turning coffee into code. 🚀" src="./assets/board.gif" /></a></p>
+<p align="center"><a href="https://github.com/AntoJebi7"><img height="200px" width="80%" alt="👋 Hi, I’m Anto Jebikshan — a passionate coder with a knack for turning coffee into code. 🚀" src="./assets/board.gif" /></a></p>
 
 <br />
 
