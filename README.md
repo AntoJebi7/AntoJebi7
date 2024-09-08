@@ -35,16 +35,18 @@
 
 
 
-| <a href="https://github.com/AntoJebi7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AntoJebi7&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="AntoJebi7's github stats" /></a> | <a href="https://github.com/AntoJebi7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoJebi7&layout=compact&theme=radical&hide_border=true" /></a> |
+| <a href="https://github.com/AntoJebi7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AntoJebi7&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="AntoJebi7's github stats" /></a> | <a href="https://github.com/AntoJebi7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoJebi7&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
 
+#### Top Repositories
+
 <a href="https://github.com/AntoJebi7/Django_Essentials_with_SQL_DB">
-  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AntoJebi7&repo=Django_Essentials_with_SQL_DB&theme=radical" />
+  <img align="center" width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=AntoJebi7&repo=Django_Essentials_with_SQL_DB&theme=buefy" />
 </a>
 <a href="https://github.com/AntoJebi7/python_for_data_science">
-  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AntoJebi7&repo=python_for_data_science&theme=radical" />
+  <img align="center" width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=AntoJebi7&repo=python_for_data_science&theme=buefy" />
 </a>
 
 
