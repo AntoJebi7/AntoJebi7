@@ -9,7 +9,7 @@
 - 🎓 **CSE Undergraduate** : 
   Passionate about learning and growing in the field of Computer Science. Eager to apply academic knowledge to real-world projects.
 
-- 💼 **Aspiring Web DEV,AI&DS **
+- 💼 **Aspiring Web DEV,AI&DS**
   Currently studying and building skills in Web development, with a focus on creating engaging and user-friendly interfaces both frontend and backend and also in AI
 
 - 📈 **Project Contributor** : 
