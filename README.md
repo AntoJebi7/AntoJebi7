@@ -41,12 +41,6 @@
 #### Top Repositories
 
 
-<a href="https://github.com/AntoJebi7/Django_Essentials_with_SQL_DB">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AntoJebi7&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/AntoJebi7/anto_portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AntoJebi7&repo=AntoJebi7.github.io&theme=buefy" />
-</a>
 
 <br />
 <br />
