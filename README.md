@@ -4,22 +4,24 @@
 
 As a passionate and driven third-year Computer Science and Engineering undergraduate, I have developed a comprehensive skill set in both problem solving skills and development skills.
 
+**About me**
+
 ## About Me
 
-### Innovative Technologist
-Skilled in [Your Specialty], dedicated to crafting high-quality solutions with a focus on precision and creativity.
+- 🎓 **CSE Undergraduate**
+  Passionate about learning and growing in the field of Computer Science. Eager to apply academic knowledge to real-world projects.
 
-### Outcome-Oriented Professional
-Experienced in leveraging expertise to achieve significant results and drive project success.
+- 💼 **Aspiring FrontEnd Engineer**
+  Currently studying and building skills in Web development, with a focus on creating engaging and user-friendly interfaces both frontend and backend.
 
-### Analytical Strategist
-Adept at using strategic insights to tackle complex challenges and deliver effective solutions.
+- 📈 **Project Contributor**
+  Developed and contributed to projects in React and Django 
 
-### Team-Oriented Leader
-Proven ability to collaborate with diverse teams to achieve common objectives and foster innovation.
+- ❤️ **Data Science and AI Enthusiast**
+  Enjoy writing Data Science and AI and exploring advanced programming concepts. Always looking for new ways to experiment and innovate.
 
-### Lifelong Learner
-Committed to staying updated with the latest industry trends and technologies to continually enhance my skills and knowledge.
+- 💬 **Open to Discussions**
+  Feel free to ask me anything or discuss projects . I'm always open to new ideas and collaboration opportunities.
 
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
