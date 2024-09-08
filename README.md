@@ -35,7 +35,7 @@
 
 
 
-| <a href="https://github.com/AntoJebi7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AntoJebi7&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="AntoJebi7's github stats" /></a> | <a href="https://github.com/AntoJebi7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoJebi7&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/AntoJebi7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AntoJebi7&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="AntoJebi7's github stats" /></a> | <a href="https://github.com/AntoJebi7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoJebi7&layout=compact&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
