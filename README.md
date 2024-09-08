@@ -2,17 +2,25 @@
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+As a passionate and driven third-year Computer Science and Engineering undergraduate, I have developed a comprehensive skill set in both problem solving skills and development skills.
 
-**About me**
+## About Me
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+### Innovative Technologist
+Skilled in [Your Specialty], dedicated to crafting high-quality solutions with a focus on precision and creativity.
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+### Outcome-Oriented Professional
+Experienced in leveraging expertise to achieve significant results and drive project success.
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+### Analytical Strategist
+Adept at using strategic insights to tackle complex challenges and deliver effective solutions.
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+### Team-Oriented Leader
+Proven ability to collaborate with diverse teams to achieve common objectives and foster innovation.
+
+### Lifelong Learner
+Committed to staying updated with the latest industry trends and technologies to continually enhance my skills and knowledge.
+
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
