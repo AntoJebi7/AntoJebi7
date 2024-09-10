@@ -3,6 +3,10 @@
 <p align="center"><a href="https://github.com/AntoJebi7"><img height="200px" width="90%" alt="👋 Hi, I’m Anto Jebikshan — a passionate coder with a knack for turning coffee into code. 🚀" src="./assets/banner.gif" /></a></p>
 
 <br />
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/AntoJebi7/count.svg" />
+</p>
 
 💻 As a passionate and driven third-year Computer Science and Engineering undergraduate 🎓, I have developed a comprehensive skill set in both problem-solving 🧠🔍 and development 👨‍💻💡. From tackling complex algorithms 📊 to building innovative projects 🛠️, I thrive on exploring new technologies 🔥 and pushing my limits 🚀. Always eager to learn 📚 and grow 🌱, I aim to apply my knowledge to real-world challenges 🌍 and create impactful solutions 💡✨.
 
