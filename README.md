@@ -43,10 +43,10 @@
 #### Top Repositories
 
 <a href="https://github.com/AntoJebi7/Python-Speech-Recognition">
-  <img align="center" width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=AntoJebi7&repo=Django_Essentials_with_SQL_DB&theme=aura" />
+  <img align="center" width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=AntoJebi7&repo=Python-Speech-Recognition&theme=aura" />
 </a>
 <a href="https://github.com/AntoJebi7/Django_Essentials_with_SQL_DB">
-  <img align="center" width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=AntoJebi7&repo=python_for_data_science&theme=aura" />
+  <img align="center" width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=AntoJebi7&repo=Django_Essentials_with_SQL_DB&theme=aura" />
 </a>
 
 
