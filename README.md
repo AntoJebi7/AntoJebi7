@@ -64,7 +64,7 @@
   <code><img height="40" alt="cpp" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"></code>
 </div>
 
-
+## Activity
 
 | <a href="https://github.com/AntoJebi7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AntoJebi7&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="AntoJebi7's github stats" /></a> | <a href="https://github.com/AntoJebi7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoJebi7&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
