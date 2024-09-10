@@ -45,6 +45,7 @@
 - 💬 **Open to Discussions** : 
   Feel free to ask me anything or discuss projects . I'm always open to new ideas and collaboration opportunities.
 <br />
+
 ## Skills
 
 
