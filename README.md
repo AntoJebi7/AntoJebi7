@@ -13,6 +13,7 @@
       src="https://api.visitorbadge.io/api/VisitorHit?user=AntoJebi7&repo=github-visitors-badge&countColor=%237B1E7A" 
       alt="Visitor Badge"
       width="250"
+      height="50"
       style="border: 2px solid #007bff; border-radius: 12px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);"
     />
   </a>
