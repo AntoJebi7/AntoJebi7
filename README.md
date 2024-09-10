@@ -9,7 +9,7 @@
     <img 
       src="https://komarev.com/ghpvc/?username=AntoJebi7&color=brightgreen" 
       alt="watching_count" 
-      style="width: 100px; height: 20px;" 
+      style="width: 100px; height: 40px;" 
     />
   </a>
 </p>
