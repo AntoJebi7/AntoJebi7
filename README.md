@@ -21,9 +21,10 @@
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=AntoJebi7&theme=vue" 
     alt="mystreak"
-    style="width: 100%; height: 150px; border-style:none;"
+    style="width: 100%; height: 50%; border: none;"
   />
 </p>
+
 
 ## About Me
 
