@@ -24,10 +24,11 @@
 - 💬 **Open to Discussions** : 
   Feel free to ask me anything or discuss projects . I'm always open to new ideas and collaboration opportunities.
 
-<p align="center"> 
+<p align="center" style="font-family: Arial, sans-serif; font-size: 20px; color: #333; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);">
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/AntoJebi7/count.svg" />
+  <img src="https://profile-counter.glitch.me/AntoJebi7/count.svg" alt="Visitor Count" style="border: 2px solid #3498db; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); width: 200px; height: auto;" />
 </p>
+
 <div align="center">
   <code><img height="20" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"></code>
   <code><img height="20" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"></code>
