@@ -2,7 +2,6 @@
 
 <p align="center"><a href="https://github.com/AntoJebi7"><img height="250px" width="100%" alt="👋 Hi, I’m Anto Jebikshan — a passionate coder with a knack for turning coffee into code. 🚀" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWVxd2M5OHo1YnZhdTMyejV5OHZmbWYwbWRkMHRsNzQxNGxxemJheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" /></a></p>
 
-<br />
 
 <p align="center">
   <a href="https://github.com/AntoJebi7">
