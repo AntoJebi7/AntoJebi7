@@ -11,7 +11,7 @@
       alt="Visitor Badge"
       width="180"
       height="35"
-      style="border: 2px solid #007bff; border-radius: 12px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);"
+      style="border: 2px solid #624E88; border-radius: 12px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);"
     />
   </a>
 </p>
