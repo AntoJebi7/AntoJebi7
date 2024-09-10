@@ -6,19 +6,19 @@
 
 <p align="center" >
   <a href="#" >
-    <img 
-      src="https://api.visitorbadge.io/api/VisitorHit?user=AntoJebi7&repo=github-visitors-badge&countColor=%237B1E7A" 
-      alt="Visitor Badge"
-      width="180"
-      height="35"
-      style="border: 2px solid #007bff; border-radius: 12px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);"
-    />
+    <img src="https://komarev.com/ghpvc/?username=AntoJebi7&color=brightgreen" alt="watching_count" />
   </a>
 </p>
 
 💻 As a passionate and driven third-year Computer Science and Engineering undergraduate 🎓, I have developed a comprehensive skill set in both problem-solving 🧠🔍 and development 👨‍💻💡. From tackling complex algorithms 📊 to building innovative projects 🛠️, I thrive on exploring new technologies 🔥 and pushing my limits 🚀. Always eager to learn 📚 and grow 🌱, I aim to apply my knowledge to real-world challenges 🌍 and create impactful solutions 💡✨.
 
-<img align ="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AntoJebi7&theme=tokyonight" alt="mystreak"/>
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=AntoJebi7&theme=tokyonight" 
+    alt="mystreak"
+    style="max-width: 100%; height: auto;"
+  />
+</p>
 
 ## About Me
 
