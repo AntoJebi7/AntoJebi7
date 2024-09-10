@@ -25,7 +25,7 @@
   Feel free to ask me anything or discuss projects . I'm always open to new ideas and collaboration opportunities.
 
 <p align="center">
-  <strong>Visitor Count</strong><br>
+  <strong>Visitor Analytics</strong><br>
   <img src="https://profile-counter.glitch.me/AntoJebi7/count.svg" alt="Visitor Count" width="200" style="border: 2px solid #3498db; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
 </p>
 
