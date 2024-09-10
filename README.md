@@ -3,17 +3,14 @@
 <p align="center"><a href="https://github.com/AntoJebi7"><img height="200px" width="90%" alt="👋 Hi, I’m Anto Jebikshan — a passionate coder with a knack for turning coffee into code. 🚀" src="./assets/banner.gif" /></a></p>
 
 <br />
-<p align="center">
-  <strong>Visitor Analytics</strong><br>
-  <img src="https://profile-counter.glitch.me/AntoJebi7/count.svg" alt="Visitor Count" width="200" style="border: 2px solid #3498db; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
-</p>
+
 <p align="center">
   <a href="#">
     <img 
       src="https://api.visitorbadge.io/api/VisitorHit?user=AntoJebi7&repo=github-visitors-badge&countColor=%237B1E7A" 
       alt="Visitor Badge"
-      width="200"
-      height="40"
+      width="180"
+      height="35"
       style="border: 2px solid #007bff; border-radius: 12px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);"
     />
   </a>
