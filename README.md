@@ -9,7 +9,7 @@
 </p>
 <p align="center">
   <a href="#">
-      <img src="https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A" />
+      <img src="https://api.visitorbadge.io/api/VisitorHit?user=AntoJebi7&repo=github-visitors-badge&countColor=%237B1E7A" />
    </a>
 </p>
 💻 As a passionate and driven third-year Computer Science and Engineering undergraduate 🎓, I have developed a comprehensive skill set in both problem-solving 🧠🔍 and development 👨‍💻💡. From tackling complex algorithms 📊 to building innovative projects 🛠️, I thrive on exploring new technologies 🔥 and pushing my limits 🚀. Always eager to learn 📚 and grow 🌱, I aim to apply my knowledge to real-world challenges 🌍 and create impactful solutions 💡✨.
