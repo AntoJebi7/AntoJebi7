@@ -15,7 +15,10 @@
 </p>
 
 
-💻 As a passionate and driven third-year Computer Science and Engineering undergraduate 🎓, I have developed a comprehensive skill set in both problem-solving 🧠🔍 and development 👨‍💻💡. From tackling complex algorithms 📊 to building innovative projects 🛠️, I thrive on exploring new technologies 🔥 and pushing my limits 🚀. Always eager to learn 📚 and grow 🌱, I aim to apply my knowledge to real-world challenges 🌍 and create impactful solutions 💡✨.
+<p style="font-family: Arial, sans-serif; line-height: 1.6;">
+  As a <strong style="font-weight: bold; color: #007BFF;">passionate and driven third-year Computer Science and Engineering undergraduate</strong> 🎓, I have developed a comprehensive skill set in both <strong style="font-weight: bold; color: #28A745;">problem-solving</strong> 🧠🔍 and <strong style="font-weight: bold; color: #FFC107;">development</strong> 👨‍💻💡. From tackling complex algorithms 📊 to building innovative projects 🛠️, I thrive on exploring new technologies 🔥 and pushing my limits 🚀. Always eager to learn 📚 and grow 🌱, I aim to apply my knowledge to real-world challenges 🌍 and create impactful solutions 💡✨.
+</p>
+
 
 <p align="center">
   <img 
