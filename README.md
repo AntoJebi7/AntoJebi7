@@ -4,7 +4,7 @@
 
 <br />
 
-<p align="center" style="border: 2px solid #007bff; border-radius: 12px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);">
+<p align="center" >
   <a href="#" >
     <img 
       src="https://api.visitorbadge.io/api/VisitorHit?user=AntoJebi7&repo=github-visitors-badge&countColor=%237B1E7A" 
