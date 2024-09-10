@@ -8,7 +8,7 @@
     <img 
       src="https://komarev.com/ghpvc/?username=AntoJebi7&color=brightgreen" 
       alt="watching_count" 
-      style="width: 50px; height: 30px;" 
+      style="width: 100px; height: 30px;" 
     />
   </a>
 </p>
