@@ -21,7 +21,7 @@
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=AntoJebi7&theme=vue" 
     alt="mystreak"
-    style="max-width: 100%; height: auto;"
+    style="width: 100%; height: auto;"
   />
 </p>
 
