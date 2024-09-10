@@ -1,16 +1,16 @@
-## Hi I'm Anto Jebikshan 👋🙋‍♂️
 <p>
-  <a href="https://github.com/AntoJebi7" style="display: inline-block;">
+  <span style="display: inline-block; vertical-align: middle;">
+    ## Hi I'm Anto Jebikshan 👋🙋‍♂️
+  </span>
+  <a href="https://github.com/AntoJebi7" style="display: inline-block; margin-left: 10px;">
     <img 
       src="https://komarev.com/ghpvc/?username=AntoJebi7&color=brightgreen" 
       alt="watching_count" 
       style="width: 150px; height: 30px; vertical-align: middle;" 
     />
   </a>
-  <span style="display: inline-block; vertical-align: middle;">
-    👋🙋‍♂️
-  </span>
 </p>
+
 
 
 
