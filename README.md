@@ -1,6 +1,6 @@
 <p>
   <span style="display: inline-block; vertical-align: middle;">
-    ## Hi I'm Anto Jebikshan 👋🙋‍♂️
+    <h1> Hi I'm Anto Jebikshan 👋🙋‍♂️ </h1>
   </span>
   <a href="https://github.com/AntoJebi7" style="display: inline-block; margin-left: 10px;">
     <img 
