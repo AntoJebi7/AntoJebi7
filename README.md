@@ -5,11 +5,11 @@
 <br />
 
 <p align="center">
-  <a href="#">
+  <a href="https://github.com/AntoJebi7">
     <img 
       src="https://komarev.com/ghpvc/?username=AntoJebi7&color=brightgreen" 
       alt="watching_count" 
-      style="width: 100px; height: 40px;" 
+      style="width: 100px; height: 30px;" 
     />
   </a>
 </p>
