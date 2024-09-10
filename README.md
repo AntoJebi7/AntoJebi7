@@ -7,7 +7,11 @@
   <strong>Visitor Analytics</strong><br>
   <img src="https://profile-counter.glitch.me/AntoJebi7/count.svg" alt="Visitor Count" width="200" style="border: 2px solid #3498db; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
 </p>
-
+<p align="center">
+  <a href="#">
+      <img src="https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A" />
+   </a>
+</p>
 💻 As a passionate and driven third-year Computer Science and Engineering undergraduate 🎓, I have developed a comprehensive skill set in both problem-solving 🧠🔍 and development 👨‍💻💡. From tackling complex algorithms 📊 to building innovative projects 🛠️, I thrive on exploring new technologies 🔥 and pushing my limits 🚀. Always eager to learn 📚 and grow 🌱, I aim to apply my knowledge to real-world challenges 🌍 and create impactful solutions 💡✨.
 
 ## About Me
