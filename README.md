@@ -14,7 +14,7 @@
 
 
 ## The Journey So Far
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1F0606&width=435&lines=As+a+passionate+and+driven+third-year+Computer+Science+and+Engineering+undergraduate+%F0%9F%8E%93%2C+I+have+developed+a+comprehensive+skill+set+in+both+problem-solving+%F0%9F%A7%A0%F0%9F%94%8D+and+development+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%92%A1.+From+tackling+complex+algorithms+%F0%9F%93%8A+to+building+innovative+projects+%F0%9F%9B%A0%EF%B8%8F%2C+I+thrive+on+exploring+new+technologies+%F0%9F%94%A5+and+pushing+my+limits+%F0%9F%9A%80.+Always+eager+to+learn+%F0%9F%93%9A+and+grow+%F0%9F%8C%B1%2C+I+aim+to+apply+my+knowledge+to+real-world+challenges+%F0%9F%8C%8D+and+create+impactful+solutions+%F0%9F%92%A1%E2%9C%A8.)](https://git.io/typing-svg)
 
 <p style="font-family: Arial, sans-serif; line-height: 1.6;">
   As a <strong style="font-weight: bold; color: #007BFF;">passionate and driven third-year Computer Science and Engineering undergraduate</strong> 🎓, I have developed a comprehensive skill set in both <strong style="font-weight: bold; color: #28A745;">problem-solving</strong> 🧠🔍 and <strong style="font-weight: bold; color: #FFC107;">development</strong> 👨‍💻💡. From tackling complex algorithms 📊 to building innovative projects 🛠️, I thrive on exploring new technologies 🔥 and pushing my limits 🚀. Always eager to learn 📚 and grow 🌱, I aim to apply my knowledge to real-world challenges 🌍 and create impactful solutions 💡✨.
