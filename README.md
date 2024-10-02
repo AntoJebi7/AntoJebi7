@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=New+Amsterdam&letterSpacing=3px&pause=1000&color=1F0606&width=435&lines=+Hi+I'm+Anto+Jebikshan+%F0%9F%91%8B%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=New+Amsterdam&letterSpacing=3px&pause=1000&color=000000&background=FFFFFF&width=435&lines=Hi+I'm+Anto+Jebikshan)](https://git.io/typing-svg)
 <p>
   <a href="https://github.com/AntoJebi7">
     <img 
