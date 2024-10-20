@@ -67,8 +67,12 @@
 
 ## Activity
 
- <a href="https://github.com/AntoJebi7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoJebi7&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<div style="text-align: center;">
+  <a href="https://github.com/AntoJebi7/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoJebi7&layout=compact&theme=buefy&hide_border=true" />
+  </a>
+</div>
+
 
 #### Top Repositories
 
