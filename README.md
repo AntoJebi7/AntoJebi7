@@ -48,7 +48,7 @@
 <br />
 
 ## Skills
-
+<p align="center">Here are some of the technologies and tools I am familiar with:</p>
 ### Languages
 ![Languages](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,scss,c,cpp,py,php,mysql,java,jquery,postgres)
 ### Technologies
