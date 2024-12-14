@@ -36,7 +36,7 @@
 - 💬 **Open to Discussions** : 
   Feel free to ask me anything or discuss projects . I'm always open to new ideas and collaboration opportunities.
 <br />
-
+<p align="center"><a href="https://github.com/AntoJebi7"><img height="300px" width="100%" alt=" Hi, I’m Anto Jebikshan — a passionate coder with a knack for turning coffee into code. " src="./images/1.gif"/></a></p>
 
 ## </> Skills
 
