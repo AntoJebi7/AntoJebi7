@@ -50,9 +50,9 @@
 ## Skills
 
 ### Languages
-
+<p align="center">
 ![Languages](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,scss,c,py,php,mysql)
-
+</p>
 ### Technologies
 
 
