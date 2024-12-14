@@ -48,6 +48,24 @@
 <br />
 
 ## Skills
+## My Skills
+
+### Environment
+
+![Operating Systems](https://go-skill-icons.vercel.app/api/icons?i=gentoo,arch,i3,alacritty,neovim,firefox,chromium)
+
+### Languages
+
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=wasm,ts,js,html,css,scss,go,c,rust,py,php,mysql,lua,gleam&perline=7)
+
+### Technologies
+
+
+![Technologies](https://go-skill-icons.vercel.app/api/icons?i=react,vue,firebase,threejs,nodejs,yew,twig)
+
+### Tools
+
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=discord,miro,git,github,figma,vite,npm,netlify,vercel&perline=7)
 
 <p align="center"><a href="https://github.com/AntoJebi7"><img height="200px" width="100%" alt=" Hi, I’m Anto Jebikshan — a passionate coder with a knack for turning coffee into code. " src="./images/6.png"/></a></p>
 <div align="center">
