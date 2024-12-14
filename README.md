@@ -50,11 +50,11 @@
 
 ## Skills
 
-### Languages
+### </> Languages
 ![Languages](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,scss,c,cpp,py,php,mysql,java,jquery,postgres)
-### Technologies
+### </> Technologies
 ![Technologies](https://go-skill-icons.vercel.app/api/icons?i=react,firebase,nodejs,django,express,mongodb,npm,postman)
-### Tools
+### </> Tools
 ![Tools](https://go-skill-icons.vercel.app/api/icons?i=discord,bootstrap,git,github,figma,vite,npm,linux,vercel,vscode)
 
 <p align="center"><a href="https://github.com/AntoJebi7"><img height="200px" width="100%" alt=" Hi, I’m Anto Jebikshan — a passionate coder with a knack for turning coffee into code. " src="./images/6.png"/></a></p>
