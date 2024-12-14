@@ -47,8 +47,7 @@
   Feel free to ask me anything or discuss projects . I'm always open to new ideas and collaboration opportunities.
 <br />
 
-## Skills
-### Languages
+### Languages and Skills
 ![Languages](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,scss,c,cpp,py,php,mysql,java,jquery,postgres)
 ### Technologies
 ![Technologies](https://go-skill-icons.vercel.app/api/icons?i=react,firebase,nodejs,django,express,mongodb,npm,postman)
