@@ -48,15 +48,10 @@
 <br />
 
 ## Skills
-## My Skills
-
-### Environment
-
-![Operating Systems](https://go-skill-icons.vercel.app/api/icons?i=gentoo,arch,i3,alacritty,neovim,firefox,chromium)
 
 ### Languages
 
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=wasm,ts,js,html,css,scss,go,c,rust,py,php,mysql,lua,gleam&perline=7)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,scss,c,py,php,mysql,gleam&perline=7)
 
 ### Technologies
 
