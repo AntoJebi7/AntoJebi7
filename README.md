@@ -1,15 +1,5 @@
 ## </> Hi I'm Anto Jebikshan !
 
-<p>
-  <a href="https://github.com/AntoJebi7">
-    <img 
-      src="https://komarev.com/ghpvc/?username=AntoJebi7&color=brightgreen" 
-      alt="watching_count" 
-      style="width: 120px; height: 30px;" 
-    />
-  </a>
-</p>
-
 <p align="center"><a href="https://github.com/AntoJebi7"><img height="300px" width="100%" alt=" Hi, I’m Anto Jebikshan — a passionate coder with a knack for turning coffee into code. " src="./images/5.gif"/></a></p>
 
 ## </> The Journey So Far
