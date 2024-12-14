@@ -1,6 +1,6 @@
 ## </> Hi I'm Anto Jebikshan !
+<p align="center"><a href="https://github.com/AntoJebi7"><img height="400px" width="100%" alt=" Hi, I’m Anto Jebikshan — a passionate coder with a knack for turning coffee into code. " src="./images/1.gif"/></a></p>
 
-<p align="center"><a href="https://github.com/AntoJebi7"><img height="300px" width="100%" alt=" Hi, I’m Anto Jebikshan — a passionate coder with a knack for turning coffee into code. " src="./images/5.gif"/></a></p>
 
 ## </> The Journey So Far
 
@@ -36,7 +36,8 @@
 - 💬 **Open to Discussions** : 
   Feel free to ask me anything or discuss projects . I'm always open to new ideas and collaboration opportunities.
 <br />
-<p align="center"><a href="https://github.com/AntoJebi7"><img height="400px" width="100%" alt=" Hi, I’m Anto Jebikshan — a passionate coder with a knack for turning coffee into code. " src="./images/1.gif"/></a></p>
+<p align="center"><a href="https://github.com/AntoJebi7"><img height="300px" width="100%" alt=" Hi, I’m Anto Jebikshan — a passionate coder with a knack for turning coffee into code. " src="./images/5.gif"/></a></p>
+
 
 ## </> Skills
 
@@ -47,7 +48,6 @@
 ### Tools
 ![Tools](https://go-skill-icons.vercel.app/api/icons?i=discord,bootstrap,git,github,figma,vite,npm,linux,vercel,vscode)
 
-<p align="center"><a href="https://github.com/AntoJebi7"><img height="300px" width="90%" alt=" Hi, I’m Anto Jebikshan — a passionate coder with a knack for turning coffee into code. " src="./images/6.png"/></a></p>
 
 
 
