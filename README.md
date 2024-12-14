@@ -1,4 +1,4 @@
-## Hi I'm Anto Jebikshan !
+## </> Hi I'm Anto Jebikshan !
 
 <p>
   <a href="https://github.com/AntoJebi7">
@@ -12,7 +12,7 @@
 
 <p align="center"><a href="https://github.com/AntoJebi7"><img height="300px" width="100%" alt=" Hi, I’m Anto Jebikshan — a passionate coder with a knack for turning coffee into code. " src="./images/5.gif"/></a></p>
 
-## The Journey So Far
+## </> The Journey So Far
 
 
 <p style="font-family: New Amsterdam, sans-serif; line-height: 1.6;">
@@ -29,7 +29,7 @@
 </p>
 
 
-## About Me
+## </> About Me
 
 - 🎓 **CSE Undergraduate** : 
   Passionate about learning and growing in the field of Computer Science. Eager to apply academic knowledge to real-world projects.
@@ -48,20 +48,20 @@
 <br />
 
 
-## Skills
+## </> Skills
 
-### </> Languages
+### Languages
 ![Languages](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,scss,c,cpp,py,php,mysql,java,jquery,postgres)
-### </> Technologies
+### Technologies
 ![Technologies](https://go-skill-icons.vercel.app/api/icons?i=react,firebase,nodejs,django,express,mongodb,npm,postman)
-### </> Tools
+### Tools
 ![Tools](https://go-skill-icons.vercel.app/api/icons?i=discord,bootstrap,git,github,figma,vite,npm,linux,vercel,vscode)
 
 <p align="center"><a href="https://github.com/AntoJebi7"><img height="200px" width="100%" alt=" Hi, I’m Anto Jebikshan — a passionate coder with a knack for turning coffee into code. " src="./images/6.png"/></a></p>
 
 
 
-#### Top Repositories
+#### </> Top Repositories
 
 <a href="https://github.com/AntoJebi7/Python-Speech-Recognition">
   <img align="center" width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=AntoJebi7&repo=Python-Speech-Recognition&theme=vue" />
