@@ -46,7 +46,10 @@
 - 💬 **Open to Discussions** : 
   Feel free to ask me anything or discuss projects . I'm always open to new ideas and collaboration opportunities.
 <br />
-## SKILLS
+
+
+## Skills
+
 ### Languages
 ![Languages](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,scss,c,cpp,py,php,mysql,java,jquery,postgres)
 ### Technologies
