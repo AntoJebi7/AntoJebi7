@@ -51,6 +51,7 @@
 ## Skills
 
 <p align="center"><a href="https://github.com/AntoJebi7"><img height="200px" width="100%" alt=" Hi, I’m Anto Jebikshan — a passionate coder with a knack for turning coffee into code. " src="./images/6.png"/></a></p>
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,tailwind,vue,nuxt,mongodb,prisma,docker,figma)](https://skillicons.dev)<br/>
 <div align="center">
   <code><img height="40" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"></code>
   <code><img height="40" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"></code>
