@@ -1,13 +1,8 @@
 ## </> Hi I'm Anto Jebikshan !
 <p align="center"><a href="https://github.com/AntoJebi7"><img height="300px" width="80%" alt=" Hi, I’m Anto Jebikshan — a passionate coder with a knack for turning coffee into code. " src="./images/10.gif"/></a></p>
+
 ## 🔗 Connect With Us
-
-Stay connected with us on social media:
-
-- [Twitter](#)
-- [LinkedIn](#)
 - [Discord](https://discord.gg/vKM75C62)
-- [Website](#)
 
 ## </> The Journey So Far
 
