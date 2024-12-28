@@ -1,5 +1,4 @@
-## Hi I'm Anto Jebikshan  
-## [Discord](https://discord.gg/vKM75C62)
+## Hi I'm Anto Jebikshan  - [Discord](https://discord.gg/vKM75C62)  
 <p align="center"><a href="https://github.com/AntoJebi7"><img height="300px" width="80%" alt=" Hi, I’m Anto Jebikshan — a passionate coder with a knack for turning coffee into code. " src="./images/10.gif"/></a></p>
 
 
