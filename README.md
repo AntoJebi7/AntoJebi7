@@ -43,7 +43,7 @@
 ### Languages
 ![Languages](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,scss,cpp,py,php,c,mysql,java,jquery,postgres&perline=8)
 ### Technologies
-![Technologies](https://go-skill-icons.vercel.app/api/icons?i=react,firebase,bootstrap,nodejs,django,linux,express,mongodb,vite&perline=8)
+![Technologies](https://go-skill-icons.vercel.app/api/icons?i=react,firebase,bootstrap,nodejs,django,linux,express,mongodb,vite,redux&perline=8)
 ### Tools
 ![Tools](https://go-skill-icons.vercel.app/api/icons?i=discord,git,github,figma,postman,npm,vercel,vscode,notion,pycharm,anaconda,clion&perline=8)
 
