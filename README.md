@@ -45,7 +45,7 @@
 ### Technologies
 ![Technologies](https://go-skill-icons.vercel.app/api/icons?i=react,firebase,bootstrap,nodejs,django,linux,express,mongodb,vite,redux&perline=8)
 ### Tools
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=discord,git,github,figma,postman,intellij,npm,vercel,vscode,notion,pycharm,anaconda,clion&perline=8)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=discord,git,github,figma,postman,npm,vercel,vscode,notion,pycharm,anaconda,clion&perline=8)
 
 
 
