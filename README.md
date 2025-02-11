@@ -39,7 +39,6 @@
 
 
 ## </> Skills
-<p align="center">
 ### Languages
 ![Languages](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,scss,cpp,py,php,c,mysql,java,jquery,postgres&perline=8)
 ### Technologies
@@ -47,7 +46,7 @@
 ### Tools
 ![Tools](https://go-skill-icons.vercel.app/api/icons?i=discord,git,github,figma,postman,npm,vercel,vscode,notion,pycharm,anaconda,clion&perline=8)
 
-</p>
+
 
 
 #### </> Top Repositories
