@@ -33,11 +33,12 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=AntoJebi7&theme=white" 
-    alt="mystreak"
-    style="max-width: 100%; height: auto; border: none;"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=AntoJebi7&theme=tokyonight-duo&hide_border=true&fire=FF5733&ring=00A8E8&currStreakLabel=FDCB58" 
+    alt="GitHub Streak Stats"
+    style="max-width: 100%; height: auto; border-radius: 10px;"
   />
 </p>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
