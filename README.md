@@ -39,24 +39,26 @@
   />
 </p>
 
+## 💻 About Me  
 
-## </> About Me
+```yaml
+💻 About Me:
 
-- 🎓 **CSE Undergraduate** : 
-  Passionate about learning and growing in the field of Computer Science. Eager to apply academic knowledge to real-world projects.
+- ![🎓](https://media.giphy.com/media/j2pOGeGyX1XTree6Xz/giphy.gif) **CSE Undergraduate**  
+  Passionate about problem-solving, software development, and real-world applications of CS concepts.  
 
-- 💼 **Aspiring Web DEV,AI&DS**
-  Currently studying and building skills in Web development, with a focus on creating engaging and user-friendly interfaces both frontend and backend and also in AI
+- ![💼](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif) **MERN & AI/DS Enthusiast**  
+  Exploring full-stack web development (MERN) and diving into AI/ML to build smart and scalable applications.  
 
-- 📈 **Project Contributor** : 
-  Developed and contributed to projects in React and Django 
+- ![🚀](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif) **Project Contributor**  
+  Developed and contributed to projects in **React, Node.js, Django, and AI-based models**.  
 
-- ❤️ **Data Science and AI Enthusiast**
-  Enjoy writing Data Science and AI and exploring advanced programming concepts. Always looking for new ways to experiment and innovate.
+- ![❤️](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif) **Loves AI & Data Science**  
+  Fascinated by the intersection of AI, data-driven decision-making, and automation.  
 
-- 💬 **Open to Discussions** : 
-  Feel free to ask me anything or discuss projects . I'm always open to new ideas and collaboration opportunities.
-<br />
+- ![💬](https://media.giphy.com/media/l0HlJ3VmqFqDa6nFm/giphy.gif) **Open for Collaborations**  
+  Always up for brainstorming, discussions, and building innovative projects together!  
+```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
