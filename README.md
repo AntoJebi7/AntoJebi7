@@ -5,8 +5,6 @@
 </p>
 
 ## [Discord](https://discord.gg/sVFkKxsqXg) 
-
-
 ## </> The Journey So Far
 
 
