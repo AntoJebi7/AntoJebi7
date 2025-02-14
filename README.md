@@ -18,20 +18,12 @@
 
 ## 🚀 The Journey So Far  
 
-<p style="font-family: 'Arial', sans-serif; font-size: 18px; line-height: 1.8; text-align: justify; color: #EAEAEA; background: #121212; padding: 15px; border-radius: 10px;">
-  As a <strong style="color: #00A8E8;">dedicated and ambitious third-year Computer Science and Engineering student</strong>, I have honed my skills in both <strong style="color: #32CD32;">problem-solving</strong> and <strong style="color: #FFD700;">full-stack development</strong>. From architecting efficient algorithms to crafting innovative applications, I thrive on pushing boundaries and embracing emerging technologies.  
-  <br><br>  
-  Passionate about <strong style="color: #FF5733;">AI/ML</strong> and <strong style="color: #ADFF2F;">MERN stack</strong>, I constantly seek opportunities to apply my knowledge to real-world challenges, driving impactful and scalable solutions. My journey is fueled by continuous learning, creativity, and an unquenchable curiosity.  
-</p>
-
-## 🚀 The Journey So Far  
-
 ```yaml
-- 🎓 Third-Year Computer Science & Engineering Student  
-- 💡 Passionate about AI/ML, MERN Stack, and Data Science  
-- 🔥 Building real-world projects that solve meaningful problems  
-- 🤝 Open to collaborations in AI, Full-Stack, and Open-Source  
-- 🚀 Always exploring cutting-edge technologies & pushing boundaries  
+- ![🎓](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTM0M2I1ODVhNDAwMmU4MjFiMTgyYWI3NmMwYjBmODU2OTY4Mjk1NSZjdD1n/j2pOGeGyX1XTree6Xz/giphy.gif) Third-Year Computer Science & Engineering Student  
+- ![💡](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWc0MG5jdmR2MDA1cWg3N2xlaXJ2cWJjMzBvbTVnZ3g4bHpndjM4NCZjdD1n/fwbZnTftCXVocKzfxR/giphy.gif) Passionate about AI/ML, MERN Stack, and Data Science  
+- ![🔥](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJqNm5hMzltNzJocmJkZXNoMnU5ZTI1M2hvOHFzZXZid3NsYXY3dyZjdD1n/UqZ2IMh1HkziOF5TtY/giphy.gif) Building real-world projects that solve meaningful problems  
+- ![🤝](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODk4ODV6YmE1dXhpdHY3N3h5eHQwZ2llNjN6M2xobDlkcG9yNzZuMiZjdD1n/Ll22OhMLAlVDb8UQWe/giphy.gif) Open to collaborations in AI, Full-Stack, and Open-Source  
+- ![🚀](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTh0anhrbzV1MDF0NzZodThyZnV2eWF2Z3FkMjd1aHdtcHd1b2MzNSZjdD1n/Y1ZruxRrUftjvEECuI/giphy.gif) Always exploring cutting-edge technologies & pushing boundaries  
 ```
 
 <p align="center">
