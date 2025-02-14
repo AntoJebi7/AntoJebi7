@@ -27,10 +27,20 @@
 ## 🚀 The Journey So Far  
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00A8E8&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Passionate+Computer+Science+Student+%7C+AI/ML+%7C+MERN;Problem-Solver+%7C+Building+Impactful+Projects;Exploring+New+Technologies+%7C+Always+Learning!">
-  </a>
+  <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="50">
 </p>
+
+<p align="center" style="font-family: 'Fira Code', monospace; font-size: 18px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00A8E8&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Passionate+Computer+Science+Student;🤖+MERN+Stack+%7C+AI/ML+Explorer;💡+Building+Impactful+Real-World+Solutions;🔥+Always+Learning+%7C+Pushing+Boundaries">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MERN-Stack-00A8E8?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/AI%2FML-Enthusiast-FF5733?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-32CD32?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Lifelong-Learner-FDCB58?style=for-the-badge&logo=bookstack&logoColor=white">
+</p>
+
 
 
 
