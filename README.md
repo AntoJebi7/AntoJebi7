@@ -16,9 +16,8 @@
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🚀 The Journey So Far  
-
 ```yaml
+🚀 The Journey So Far
 - 🎓 Third-Year Computer Science & Engineering Student  
 - 💡 Passionate about AI/ML, MERN Stack, and Data Science  
 - 🔥 Building real-world projects that solve meaningful problems  
