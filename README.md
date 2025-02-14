@@ -16,11 +16,12 @@
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## </> The Journey So Far
+## 🚀 The Journey So Far  
 
-
-<p style="font-family: New Amsterdam, sans-serif; line-height: 1.6;">
-  As a <strong style="font-weight: bold; color: #007BFF;">passionate and driven third-year Computer Science and Engineering undergraduate</strong> , I have developed a comprehensive skill set in both <strong style="font-weight: bold; color: #28A745;">problem-solving</strong>  and <strong style="font-weight: bold; color: #FFC107;">development</strong> . From tackling complex algorithms  to building innovative projects , I thrive on exploring new technologies  and pushing my limits . Always eager to learn and grow , I aim to apply my knowledge to real-world challenges  and create impactful solutions .
+<p style="font-family: 'Arial', sans-serif; font-size: 18px; line-height: 1.8; text-align: justify; color: #EAEAEA; background: #121212; padding: 15px; border-radius: 10px;">
+  As a <strong style="color: #00A8E8;">dedicated and ambitious third-year Computer Science and Engineering student</strong>, I have honed my skills in both <strong style="color: #32CD32;">problem-solving</strong> and <strong style="color: #FFD700;">full-stack development</strong>. From architecting efficient algorithms to crafting innovative applications, I thrive on pushing boundaries and embracing emerging technologies.  
+  <br><br>  
+  Passionate about <strong style="color: #FF5733;">AI/ML</strong> and <strong style="color: #ADFF2F;">MERN stack</strong>, I constantly seek opportunities to apply my knowledge to real-world challenges, driving impactful and scalable solutions. My journey is fueled by continuous learning, creativity, and an unquenchable curiosity.  
 </p>
 
 
