@@ -38,12 +38,9 @@
 <br />
 
 
-# 🚀 Welcome to My Skill Showcase!  
-> **A Passionate Developer on a Journey to Master the Tech Universe!** 🌍✨  
+# Skills  
 
----
-
-## My Tech Stack 
+## Tech-Stack 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -57,7 +54,7 @@
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 </p>
 
-## Frameworks & Env 
+## Frameworks 
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-6F42C1?style=for-the-badge&logo=bootstrap&logoColor=white" />
