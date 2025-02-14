@@ -41,24 +41,35 @@
 
 ## 💻 About Me  
 
-```yaml
-💻 About Me:
+<p align="left">
+  <img src="https://media.giphy.com/media/j2pOGeGyX1XTree6Xz/giphy.gif" width="30"> 
+  <b>CSE Undergraduate</b> <br>
+  Passionate about problem-solving, software development, and real-world applications of CS concepts.
+</p>
 
-- ![🎓](https://media.giphy.com/media/j2pOGeGyX1XTree6Xz/giphy.gif) **CSE Undergraduate**  
-  Passionate about problem-solving, software development, and real-world applications of CS concepts.  
+<p align="left">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="30"> 
+  <b>MERN & AI/DS Enthusiast</b> <br>
+  Exploring full-stack web development (MERN) and diving into AI/ML to build smart and scalable applications.
+</p>
 
-- ![💼](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif) **MERN & AI/DS Enthusiast**  
-  Exploring full-stack web development (MERN) and diving into AI/ML to build smart and scalable applications.  
+<p align="left">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="30"> 
+  <b>Project Contributor</b> <br>
+  Developed and contributed to projects in <b>React, Node.js, Django, and AI-based models</b>.
+</p>
 
-- ![🚀](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif) **Project Contributor**  
-  Developed and contributed to projects in **React, Node.js, Django, and AI-based models**.  
+<p align="left">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="30"> 
+  <b>Loves AI & Data Science</b> <br>
+  Fascinated by the intersection of AI, data-driven decision-making, and automation.
+</p>
 
-- ![❤️](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif) **Loves AI & Data Science**  
-  Fascinated by the intersection of AI, data-driven decision-making, and automation.  
-
-- ![💬](https://media.giphy.com/media/l0HlJ3VmqFqDa6nFm/giphy.gif) **Open for Collaborations**  
-  Always up for brainstorming, discussions, and building innovative projects together!  
-```
+<p align="left">
+  <img src="https://media.giphy.com/media/l0HlJ3VmqFqDa6nFm/giphy.gif" width="30"> 
+  <b>Open for Collaborations</b> <br>
+  Always up for brainstorming, discussions, and building innovative projects together!
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
