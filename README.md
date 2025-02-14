@@ -14,7 +14,7 @@
 <img src=https://img.shields.io/badge/hashnode-%2300acee.svg?color=2962FF&style=for-the-badge&logo=hashnode&logoColor=white alt=hshnode style="margin-bottom: 5px;" />
 </a>
 </p>
-<img src="https://i.imgur.com/Ae8XDRu.gif">
+<img src="https://i.imgur.com/hrnT6b6.gif">
 
 
 ```yaml
