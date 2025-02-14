@@ -26,13 +26,13 @@
 
 ## 🚀 The Journey So Far  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="50">
-</p>
-
-<p align="center" style="font-family: 'Fira Code', monospace; font-size: 18px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00A8E8&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Passionate+Computer+Science+Student;🤖+MERN+Stack+%7C+AI/ML+Explorer;💡+Building+Impactful+Real-World+Solutions;🔥+Always+Learning+%7C+Pushing+Boundaries">
-</p>
+```yaml
+- 🎓 Third-Year Computer Science & Engineering Student  
+- 💡 Passionate about AI/ML, MERN Stack, and Data Science  
+- 🔥 Building real-world projects that solve meaningful problems  
+- 🤝 Open to collaborations in AI, Full-Stack, and Open-Source  
+- 🚀 Always exploring cutting-edge technologies & pushing boundaries  
+```
 
 <p align="center">
   <img src="https://img.shields.io/badge/MERN-Stack-00A8E8?style=for-the-badge&logo=javascript&logoColor=white">
