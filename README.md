@@ -62,7 +62,7 @@
 ## ⚡ Cutting-Edge Technologies  
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-0D6EFD?style=for-the-badge&logo=bootstrap&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-6F42C1?style=for-the-badge&logo=bootstrap&logoColor=black" />
   <img src="https://img.shields.io/badge/Tailwind-3B82F6?style=for-the-badge&logo=tailwindcss&logoColor=black" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
