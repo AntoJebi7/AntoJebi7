@@ -24,6 +24,15 @@
   Passionate about <strong style="color: #FF5733;">AI/ML</strong> and <strong style="color: #ADFF2F;">MERN stack</strong>, I constantly seek opportunities to apply my knowledge to real-world challenges, driving impactful and scalable solutions. My journey is fueled by continuous learning, creativity, and an unquenchable curiosity.  
 </p>
 
+## 🚀 The Journey So Far  
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00A8E8&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Passionate+Computer+Science+Student+%7C+AI/ML+%7C+MERN;Problem-Solver+%7C+Building+Impactful+Projects;Exploring+New+Technologies+%7C+Always+Learning!">
+  </a>
+</p>
+
+
 
 <p align="center">
   <img 
