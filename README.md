@@ -29,7 +29,6 @@
   <img src="https://img.shields.io/badge/MERN-Stack-00A8E8?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/AI%2FML-Enthusiast-FF5733?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Competitive%20Programming-HackerRank%20%7C%20LeetCode-FFA500?style=for-the-badge&logo=leetcode&logoColor=white">
-  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express-339933?style=for-the-badge&logo=node.js&logoColor=white">
 </p>
 
 <p align="center">
