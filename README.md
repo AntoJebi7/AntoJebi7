@@ -42,37 +42,24 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💻 About Me  
+```yaml
+💻 About Me:
 
-<p align="left">
-  <img src="https://media.giphy.com/media/j2pOGeGyX1XTree6Xz/giphy.gif" width="30"> 
-  <b>CSE Undergraduate</b> <br>
+- CSE Undergraduate:
   Passionate about problem-solving, software development, and real-world applications of CS concepts.
-</p>
 
-<p align="left">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="30"> 
-  <b>MERN & AI/DS Enthusiast</b> <br>
+- MERN & AI/DS Enthusiast:
   Exploring full-stack web development (MERN) and diving into AI/ML to build smart and scalable applications.
-</p>
 
-<p align="left">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="30"> 
-  <b>Project Contributor</b> <br>
-  Developed and contributed to projects in <b>React, Node.js, Django, and AI-based models</b>.
-</p>
+- Project Contributor:
+  Developed and contributed to projects in React, Node.js, Django, and AI-based models.
 
-<p align="left">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="30"> 
-  <b>Loves AI & Data Science</b> <br>
+- Loves AI & Data Science:
   Fascinated by the intersection of AI, data-driven decision-making, and automation.
-</p>
 
-<p align="left">
-  <img src="https://media.giphy.com/media/l0HlJ3VmqFqDa6nFm/giphy.gif" width="30"> 
-  <b>Open for Collaborations</b> <br>
+- Open for Collaborations:
   Always up for brainstorming, discussions, and building innovative projects together!
-</p>
+```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
