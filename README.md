@@ -1,51 +1,60 @@
 # Anto Jebikshan D
 
-[![Profile Views](https://komarev.com/ghpvc/?username=antodev&style=flat-square)](https://github.com/antojebi7)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-000?style=flat-square)
-![Java](https://img.shields.io/badge/Code-Java-000?style=flat-square)
-![React](https://img.shields.io/badge/Frontend-React-000?style=flat-square)
-![Next.js](https://img.shields.io/badge/Frontend-Next.js-000?style=flat-square)
-![Node.js](https://img.shields.io/badge/Backend-Node.js-000?style=flat-square)
-![Docker](https://img.shields.io/badge/Tools-Docker-000?style=flat-square)
-![n8n](https://img.shields.io/badge/Automation-n8n-000?style=flat-square)
+[![Profile Views](https://komarev.com/ghpvc/?username=antodev&style=flat-square&color=0f0f0f)](#)
+
+---
+
+## Technology Stack
+
+### Languages  
+![Java](https://img.shields.io/badge/Java-0f0f0f?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f0f0f?style=flat-square&logo=javascript)
+![C](https://img.shields.io/badge/C-0f0f0f?style=flat-square&logo=c)
+![SQL](https://img.shields.io/badge/SQL-0f0f0f?style=flat-square&logo=postgresql)
+![NoSQL](https://img.shields.io/badge/NoSQL-0f0f0f?style=flat-square&logo=mongodb)
+
+### Frontend  
+![React](https://img.shields.io/badge/React-0f0f0f?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-0f0f0f?style=flat-square&logo=nextdotjs)
+![HTML](https://img.shields.io/badge/HTML-0f0f0f?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-0f0f0f?style=flat-square&logo=css3)
+
+### Backend  
+![Node.js](https://img.shields.io/badge/Node.js-0f0f0f?style=flat-square&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-0f0f0f?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-0f0f0f?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f0f0f?style=flat-square&logo=postgresql)
+![Firebase](https://img.shields.io/badge/Firebase-0f0f0f?style=flat-square&logo=firebase)
+
+### Tools & Platforms  
+![Docker](https://img.shields.io/badge/Docker-0f0f0f?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/Git-0f0f0f?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-0f0f0f?style=flat-square&logo=github)
+![n8n](https://img.shields.io/badge/n8n_Automation-0f0f0f?style=flat-square&logo=n8n)
+![GCP](https://img.shields.io/badge/Google_Cloud-0f0f0f?style=flat-square&logo=googlecloud)
+![Figma](https://img.shields.io/badge/Figma-0f0f0f?style=flat-square&logo=figma)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-0f0f0f?style=flat-square&logo=adobexd)
+![Photoshop](https://img.shields.io/badge/Photoshop-0f0f0f?style=flat-square&logo=adobephotoshop)
 
 ---
 
 ## About Me
 
-I am a Software Engineer specializing in full-stack web development, workflow automation, and cloud-ready deployments.  
-I work with the MERN stack, Next.js, PostgreSQL, Firebase, Docker, and n8n, supported by strong Java fundamentals in data structures and problem-solving.  
-My background in UI/UX allows me to build systems that balance performance, usability, and scalability.
+I am a Software Engineer specializing in full-stack development, workflow automation, and cloud-ready deployments.  
+I work extensively with the MERN stack, Next.js, PostgreSQL, Firebase, Docker, and n8n, backed by strong Java fundamentals in data structures and problem-solving.  
+My experience in UI/UX and product design helps me develop systems that balance usability, performance, and scalability.
 
 ---
 
 ## Professional Summary
 
-- Full-stack developer experienced in React, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, and Firebase  
-- Skilled in n8n workflow automation, integrations, and backend logic automation  
-- Proficient in Docker-based deployments and cloud-oriented hosting  
-- Strong foundation in Java, data structures, backend logic, and scalable system design  
-- Experienced in UI/UX and product design using Figma and Adobe XD  
-- Focused on building efficient, user-centric, reliable software systems  
+- Full-stack developer with experience in React, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, Firebase  
+- Skilled in n8n workflow automation, system integrations, and backend automation  
+- Strong in Docker-based deployments and scalable cloud architectures  
+- Solid foundation in Java, data structures, backend logic, and system design  
+- Experienced in product design using Figma and Adobe tools  
+- Focused on building maintainable, user-centric, and efficient applications  
 
----
-
-## Technical Skills
-
-### Languages
-Java, JavaScript, C, SQL, NoSQL
-
-### Frontend
-React, Next.js, HTML, CSS
-
-### Backend
-Node.js, Express.js, MongoDB, PostgreSQL, Firebase
-
-### Tools & Platforms
-Docker, Git, GitHub, n8n, Google Cloud Platform, Figma, Adobe XD, Adobe Photoshop
-
-### Core Strengths
-Full-stack development, workflow automation, scalable backend systems, product design, cloud deployment, problem-solving
 
 
 
