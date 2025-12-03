@@ -40,20 +40,20 @@
 
 ## About Me
 
-I am a Software Engineer specializing in full-stack development, workflow automation, and cloud-ready deployments.  
-I work extensively with the MERN stack, Next.js, PostgreSQL, Firebase, Docker, and n8n, backed by strong Java fundamentals in data structures and problem-solving.  
-My experience in UI/UX and product design helps me develop systems that balance usability, performance, and scalability.
+I am a Software Engineer specializing in full-stack development, workflow automation and cloud-ready deployments.  
+I work extensively with the MERN stack, Next.js, PostgreSQL, Firebase, Docker and n8n, backed by strong Java fundamentals in data structures and problem-solving.  
+My experience in UI/UX and product design helps me develop systems that balance usability, performance and scalability.
 
 ---
 
 ## Professional Summary
 
 - Full-stack developer with experience in React, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, Firebase  
-- Skilled in n8n workflow automation, system integrations, and backend automation  
+- Skilled in n8n workflow automation, system integrations and backend automation  
 - Strong in Docker-based deployments and scalable cloud architectures  
-- Solid foundation in Java, data structures, backend logic, and system design  
+- Solid foundation in Java, data structures, backend logic and system design  
 - Experienced in product design using Figma and Adobe tools  
-- Focused on building maintainable, user-centric, and efficient applications  
+- Focused on building maintainable, user-centric and efficient applications  
 
 
 
