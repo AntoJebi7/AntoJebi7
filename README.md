@@ -46,7 +46,7 @@ My experience in UI/UX and product design helps me develop systems that balance 
 
 ---
 
-## Professional Summary
+## Summary
 
 - Full-stack developer with experience in React, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, Firebase  
 - Skilled in n8n workflow automation, system integrations and backend automation  
