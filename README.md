@@ -3,26 +3,8 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=antodev&style=flat-square&color=0f0f0f)](#)
 
 <p align="center">
-  <img src="https://i.imgur.com/GZHodUG.png" width="100px" alt="GitHub Streak Stats"/>
-  <h3 align="center">GitHub Readme Streak Stats</h3>
-</p>
-
-<p align="center">
-  Display your total contributions, current streak,
-  <br/>
-  and longest streak on your GitHub profile README.
-</p>
-
-<p align="center">
-  <a href="https://github.com/search?q=path%3A*.md+%28streak-stats.demolab.com+OR+git.io%2Fstreak-stats+OR+denvercoder1%2Fgithub-readme-streak-stats+OR+github-readme-streak-stats-eight.vercel.app%29&type=code"
-     title="Repositories using GitHub Readme Streak Stats">
-    <img src="https://www.pokegoplaces.com/github/github-search-results/streak-stats/"
-         alt="Repositories using streak stats"/>
-  </a>
-  <a href="https://discord.gg/fPrdqh3Zfu"
-     title="Dev Pro Tips Discussion and Support Server">
-    <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"
-         alt="Discord server"/>
+  <a href="https://github.com/AntoJebi7">
+    <img src="https://streak-stats.demolab.com/?user=AntoJebi7&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata" alt="AntoJebi7's GitHub Streak" />
   </a>
 </p>
 
