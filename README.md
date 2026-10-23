@@ -2,6 +2,24 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=antodev&style=flat-square&color=0f0f0f)](#)
 
+<p align="center">
+  <img src="https://i.imgur.com/GZHodUG.png" width="100px"/>
+  <h3 align="center">Github Readme Streak Stats</h3>
+</p>
+
+<p align="center">
+  Display your total contributions, current streak,
+  <br/>
+  and longest streak on your GitHub profile README
+</p>
+
+<p align="center">
+  <a href="https://github.com/search?q=path%3A*.md+%28streak-stats.demolab.com+OR+git.io%2Fstreak-stats+OR+denvercoder1%2Fgithub-readme-streak-stats+OR+github-readme-streak-stats-eight.vercel.app%29&type=code" alt="Users" title="Repo users">
+    <img src="https://www.pokegoplaces.com/github/github-search-results/streak-stats/"/></a>
+  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
+    <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
+</p>
+
 ---
 
 ## Technology Stack
